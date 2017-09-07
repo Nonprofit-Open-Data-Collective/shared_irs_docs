@@ -1,6 +1,7 @@
 ### Shared docs
 
-Docs posted here are:
+In this directory, schedule_parts.csv, groups.csv and variables.csv represent schedule parts, repeating groups and variables found in the xml 990's.
+
 
 #### Generated docs
 
